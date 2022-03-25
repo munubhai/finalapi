@@ -93,7 +93,7 @@ table tr :last-child{
 }
 
 table tr:nth-child(odd){
-    background-color: lightgreen;
+    background-color: lightblue;
 }
 table tr:nth-child(even){
     background-color: white;
